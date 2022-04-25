@@ -27,7 +27,5 @@ if not exist cities.txt (
 
 :: Read the file line by line and issue API calls through the Node script
 for /f "tokens=*" %%s in (cities.txt) do (
-    
-    echo -- Weather in %%s --
-
+    node index.js %%s
 )
