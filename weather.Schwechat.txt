@@ -1,0 +1,8 @@
+
+        Wetter: Clouds - broken clouds
+        Temperatur: 12 °C
+        Gefühlt: 11 °C
+        Luftfeuchtigkeit: 78%
+        
+        
+        
