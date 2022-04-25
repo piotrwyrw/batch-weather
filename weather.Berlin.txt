@@ -1,0 +1,8 @@
+
+        Wetter: Clouds - broken clouds
+        Temperatur: 7 °C
+        Gefühlt: 4 °C
+        Luftfeuchtigkeit: 82%
+        
+        
+        
